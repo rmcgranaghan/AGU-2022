@@ -6,10 +6,10 @@ Contained within this directory are:
 - Materials related to my Town Hall Session: "Data and Open Science for Capable Communities and Scientific Discovery" (https://tinyurl.com/AGU-Transdisciplinary)
 
 - Materials related to my two talks:
-        "Complexity science, convergence research, and a risk and resiliency framework" (https://tinyurl.com/McGranaghan-AGUtalk1)
+    - "Complexity science, convergence research, and a risk and resiliency framework" (https://tinyurl.com/McGranaghan-AGUtalk1)
             (pdf)[https://github.com/rmcgranaghan/AGU-2022/blob/main/Poster%20-%20Complexity%20Heliophysics/McGranaghan_ComplexityHelio_AGU2022poster.pdf]
             document with references and acknowledgements
-        [invited] "Infrastructure for 21st century science: Towards a Heliophysics knowledge commons " (https://tinyurl.com/McGranaghan-AGUtalk2)
+    - [invited] "Infrastructure for 21st century science: Towards a Heliophysics knowledge commons " (https://tinyurl.com/McGranaghan-AGUtalk2)
             pdf (forthcoming)
             document with references and acknowledgements
 
