@@ -7,7 +7,7 @@ Contained within this directory are:
 
     Materials related to my two talks:
         "Complexity science, convergence research, and a risk and resiliency framework" (https://tinyurl.com/McGranaghan-AGUtalk1)
-            pdf (forthcoming)
+            (pdf)[https://github.com/rmcgranaghan/AGU-2022/blob/main/Poster%20-%20Complexity%20Heliophysics/McGranaghan_ComplexityHelio_AGU2022poster.pdf]
             document with references and acknowledgements
         [invited] "Infrastructure for 21st century science: Towards a Heliophysics knowledge commons " (https://tinyurl.com/McGranaghan-AGUtalk2)
             pdf (forthcoming)
